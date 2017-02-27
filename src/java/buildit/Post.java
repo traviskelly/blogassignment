@@ -52,11 +52,11 @@ public class Post {
         this.title = title;
     }
 
-    public Date getCreated_at() {
+    public Date getCreatedTime() {
         return createdTime;
     }
 
-    public void setCreated_at(Date createdTime) {
+    public void setCreatedTime(Date createdTime) {
         this.createdTime = createdTime;
     }
 
